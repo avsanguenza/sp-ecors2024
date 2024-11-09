@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+
+@layer base {
+  html {
+    @apply text-white
+  } 
+}
+
+@layer utilities {
+
+  .btn-primary{
+    @apply  bg-[#629584] hover:bg-[#243642] focus:outline-none focus:ring-4 focus:ring-pink-300 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2 dark:bg-pink-600 dark:hover:bg-[#243642] dark:focus:ring-[#243642]
+  }
+  .nav-primary{
+    @apply fixed top-0 z-50 sticky w-full px-2 py-2 bg-[#387478]
+  }
+  .btn-primary{
+
+  }
+  
+  .card-primary{
+    @apply 
+  }
+  
+  .textbox-primary{
+    @apply appearance-none block w-96 bg-gray-50 disabled:bg-gray-200 text-gray-700 border border-[#387478] rounded-lg py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white
+   
+  }
+  .uploadbox-primary{
+    @apply bg-white border text-gray-900 border-[#387478] rounded-lg px-3 py-4 text-slate-500 file:bg-[#387478]
+  }
+
+}

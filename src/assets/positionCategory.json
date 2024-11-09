@@ -1,0 +1,31 @@
+[
+    { "category": "Arts", "job": "Performing Arts" },
+    { "category": "Arts", "job": "Photography" },
+    { "category": "Arts", "job": "Performing Arts" },
+    
+    
+    { "category": "Consumer Goods", "job": "Apparel and Fashion" },
+    { "category": "Consumer Goods", "job": "Consumer Electronics" },
+    { "category": "Consumer Goods", "job": "Cosmetics" },
+
+    
+    { "category": "Entertainment", "job": "Hosting" },
+    { "category": "Entertainment", "job": "Music" },
+    
+    
+    { "category": "Media and Communications", "job": "Marketing and Advertising" },
+    { "category": "Media and Communications", "job": "Marketing and Advertising" },
+    { "category": "Media and Communications", "job": "Printing" },
+    { "category": "Media and Communications", "job": "Translation and Localization" },
+    { "category": "Media and Communications", "job": "Writing/Editing" },
+
+    
+    { "category": "Recreation and Travel", "job": "Airlines"},
+    { "category": "Recreation and Travel", "job": "Restaurants"},
+    { "category": "Recreation and Travel", "job": "Recreational Facilities"},
+    
+    { "category": "Transportation and Logistics", "job": "Logistics/Supply Chain"},
+    { "category": "Transportation and Logistics", "job": "Package/Freight Delivery"},
+    { "category": "Transportation and Logistics", "job": "Transportation"} 
+
+]

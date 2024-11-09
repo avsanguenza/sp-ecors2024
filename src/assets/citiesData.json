@@ -1,0 +1,20 @@
+[
+  { "name": "Caloocan", "province": "MM" },
+  { "name": "Las Piñas", "province": "MM" },
+  { "name": "Makati", "province": "MM" },
+  { "name": "Malabon", "province": "MM" },
+  { "name": "Mandaluyong", "province": "MM" },
+  { "name": "Manila", "province": "MM"},
+  { "name": "Marikina", "province": "MM"},
+  { "name": "Muntinlupa", "province": "MM" },
+  { "name": "Navotas", "province": "MM"},
+  { "name": "Parañaque", "province": "MM"},
+  { "name": "Pasay", "province": "MM"},
+  { "name": "Pasig", "province": "MM" },
+  { "name": "Pateros", "province": "MM" },
+  { "name": "Quezon City", "province": "MM" },
+  { "name": "San Juan", "province": "MM"},
+  { "name": "Taguig", "province": "MM" },
+  { "name": "Valenzuela", "province": "MM"}
+
+]

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+@layer utilities{
+
+  .nav-spacing{
+    @apply container px-2 mx-auto flex flex-wrap items-center justify-between
+  }
+  
+  .ecors-text{
+    @apply text-xl font-sans leading-relaxed inline-block mr-4 py-2 whitespace-nowrap lowercase font-extrabold text-white hover:opacity-80
+  }
+  
+  .contentList-style{
+    @apply lg:flex flex-grow items-center
+  }
+  .contentContainerList-style{
+    @apply flex flex-col lg:flex-row list-none mr-auto py-3
+  }
+
+  .navBarContent-link{
+    @apply px-3 py-2 flex text-base font-sans font-semibold leading-snug text-white
+  }
+  .navBarContent-animation{
+    @apply hover:bg-[#243642] hover:tracking-wide hover:rounded-lg hover:px-6 transition-all duration-300 ease-in px-5 py-3
+  }
+  
+  .btn-login{
+    @apply inline-block text-sm  rounded-lg text-white hover:text-white hover:border-[#243642] mt-4 lg:mt-0 p-4 hover:bg-[#243642] hover:p-4  hover:tracking-wide hover:rounded-lg transition-all duration-200 ease-in
+  }
+}

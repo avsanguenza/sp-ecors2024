@@ -1,0 +1,21 @@
+[debug] [2024-04-01T09:10:33.788Z] ----------------------------------------------------------------------
+[debug] [2024-04-01T09:10:33.791Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Alyssa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-01T09:10:33.791Z] CLI Version:   13.6.0
+[debug] [2024-04-01T09:10:33.791Z] Platform:      win32
+[debug] [2024-04-01T09:10:33.791Z] Node Version:  v20.11.1
+[debug] [2024-04-01T09:10:33.791Z] Time:          Mon Apr 01 2024 18:10:33 GMT+0900 (Japan Standard Time)
+[debug] [2024-04-01T09:10:33.791Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-01T09:10:33.797Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-01T09:10:33.797Z] > authorizing via signed-in user (asanguenza@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Alyssa\OneDrive - University of the Philippines\ECORS\ecors
+
